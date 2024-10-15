@@ -1,0 +1,640 @@
+slno,reviews
+1,"Space Tourism
+Dennis M"
+2,"Bushnell
+Introduction
+Since the late 1950’s, humans in space (defined herein as Low Earth Orbit
+(LEO) and beyond) have, with very few exceptions, been restricted to highly
+trained astronauts"
+3,"Going forward, there is an increasing expectation that
+technologies will enable the public to visit and vacation in space"
+4,"With the ever
+increasing capabilities of what is now termed digital reality (DR) or immersive
+presence, there are two approaches to space vacations: virtual and physical"
+5,"Both
+will be discussed herein (ref"
+6,1)
+7,"The potential space tourism experiences include
+destinations such as space stations, moons, planets, and asteroids"
+8,"Also, virtually
+only with currently known or projected technology, planets/moons around other
+stars"
+9,"Discussed herein are the space tourism issues that technology needs to
+address/is addressing to enable space tourism, resultant space tourism
+experiences and developing commercial deep space"
+10,"Space is dark, cold, a nearly
+perfect vacuum, with microgravity, GEV, galactic space radiation, unimaginable
+distances, where solid matter is a trace species but which supplies the energy that
+enables human existence"
+11,"Space is often times referred to as the final frontier,
+and the general environmental conditions, as stated, are very different than those
+under which humans have evolved on Earth"
+12,"Therefore, considerable technology
+is required to enable humans in space"
+13,"In fact, even physics appears to change at
+cosmological scales including dark matter/energy, huge disagreements between
+quantum theory and the cosmological constant, and the mystery of what
+happened to the anti-matter, etc"
+14,"There is also the increasing interest in, and
+search for, life on other worlds, which may be silicon- or sulfur-based instead of
+carbon"
+15,"Overall, there is a lot to learn"
+16,"Solar system destinations beyond the
+Moon/Mars/nearby asteroids require greatly increased trip time (years to
+decade(s)), costs, distances, and health and safety technologies"
+17,"The Space Tourism Issues and Options
+The basic issues which must be addressed to enable space tourism are
+safety/reliability and cost/price"
+18,"Of these, the first is the most difficult and"
+19,"includes many aspects including dust, gravity, radiation, micro/other meteorites
+and reliability"
+20,There are very encouraging approaches to reducing costs/price
+21,Safety [ref
+22,"2] – Currently, rockets malfunction-to-explode on the order of
+every 100 launches"
+23,"That accident rate is on the order of 100 to 1000 times the
+accident rate of scheduled airlines"
+24,"Sampling of safety and reliability related issues in aerospace:
+- Human error, a major source of safety problems, crashes, even after many
+decades of Research and Development (R&D) and technologies to reduce such
+- Equipment failures, due to design, installation, operational employment,
+maintenance, aging, environmental effects, and tipping points for cascading
+system failures
+- Electron/photon related failures including cyber/software issues,
+Electromagnetic Pulse (EMP)/space weather/radiation, jamming, failure of
+equipment essential for navigation, controls, sensing, propulsion, and
+communications, etc"
+25,"- Inadequate margins, especially with regard to a cascading system of systems
+failures where reduced capability does not fail the parent part but adversely
+impacts in serious ways the functionalities/piece parts that the overall system
+depends on for robust performance"
+26,"- Operation in extreme environments/in the presence of discrete extreme
+environmental/operational conditions
+- Bio becoming more virulent in space (e"
+27,g
+28,"pathogenesis, corrosives)
+- Potential impacts of reusability upon safety and reliability and certification for
+such
+- Human health issues (e"
+29,g
+30,"micro g, radiation, psychological, accidents, illness,
+etc"
+31,")
+- Costs/profits/schedule exigencies, “corner cutting”
+- Oxidative chemistry, causing equipment failure
+- Electrostatics, causing electronic failures, fires and explosions
+- Planetary and moon dust, abrasive, corrosive, oxidative
+- Fatigue and fracture, a prime design metric for much of aerospace equipage
+- Unknown unknowns; it is usually not possible to anticipate all combinational
+situations, conditions which will result in a reliability issue; we can become
+surprised reliability-wise"
+32,"- Inadequate analysis and testing, due usually to either cost or inadequate
+knowledge or study
+In aerospace in general, some 80% of the accidents are due to human factors"
+33,"Therefore, the major first order approach to safety would be to utilize
+autonomous Artificial Intelligence (AI) robotics to both manufacture and operate
+rockets/space access"
+34,"Then there is a long list of safety related design/operational
+precepts that can be applied to greatly improve rocket safety as well as the safety
+and reliability of the spacecraft, habitats, on-planet transportation and the
+systems that keep humans healthy in what, externally, is a terminally unhealthy
+space environment"
+35,"The dust on the Moon was found during Apollo to be a problem, and Mars,
+with its rarefied CO atmosphere, has huge, long lasting dust storms"
+36,"Therefore,
+2
+equipment must be designed to keep the inhabited areas as dust free as possible"
+37,"Also, spacecraft/habitats or habs must be designed to protect against
+micrometeorites or larger space debris, ensure structural integrity, and be leak
+tight"
+38,"Radiation in space, outside of the protection of Earth’s magnetic fields and
+dense atmosphere, is orders of magnitude worse than that of nuclear weapons"
+39,"The most worrisome is Galactic Cosmic Rays or particle radiation, such as fully
+ionized iron at tens of GEV energy levels [ref"
+40,3]
+41,"Protection from this requires
+four meters of material, either regolith (living underground) or for in-space habs
+the same thickness of materials with a high hydrogen composition to reduce the
+major health concerns with regard to secondary neutron production"
+42,"This
+radiation is carcinogenic and effects nearly all physiological aspects, including the
+cardiovascular and central nervous systems"
+43,"An alternative radiation protection
+approach is fast transits, i"
+44,e
+45,"200 day round trips to Mars instead of three years
+using the usual chemical rockets"
+46,"There are at least two approaches to provide
+such fast transits"
+47,"For destinations beyond Mars, well beyond what the human
+body can withstand in regard to radiation received during in-space trip time,
+some form of serious radiation protection will be required"
+48,"The in-space micro g, and probably even the"
+49,"38g on Mars (or the 1/6th g on
+the Moon), have serious physiological effects on the human body, including
+wasting bones and muscles, eye problems, etc"
+50,[ref
+51,3]
+52,"Rotational artificial gravity
+incorporated into the design and the functionality of the deep space habs would
+be efficacious"
+53,"Having briefly described the space tourism issues for physical tourism, it is
+interesting to contrast those with the increasing alternative, immersive
+presence/digital reality [ref"
+54,1]
+55,"The development of digital reality (DR) or
+virtual/non-physical presence began with the telegraph and progressed to the
+telephone, then telephones with screens, and now to computers"
+56,"The nearer
+term developments of DR include augmented reality, advanced virtual reality (VR)
+heading toward five senses VR, and holographic projection off of flat screens"
+57,"Going forward with the availability of ever greater bandwidth and direct machine
+to brain communications, instead of through the senses, DR is projected to be as
+good as, or better than, physical reality"
+58,"Even the current DR technology provides
+the critical body language aspects of human communication"
+59,"Compared to physical travel, DR provides the following benefits:
+- Massive cost reductions, not just for transportation, total trip costs are
+massively reduced (by factors of many millions)"
+60,"- Large time savings, again, not just transportation time, huge savings in total
+trip time
+- Results in much improved use of time, can visit many planets/moons in a day
+- Do not have to be absent from family
+- Provides travel/entertainment experiences for all, affordably, on their
+personal schedule, including the infirm and the young
+- Enables expansion of the huge ongoing societal shift, begun some 25 years
+ago with the Web, into the virtual age with tele-everything such as tele-
+commuting, work, shopping, education, medicine, socialization, commerce,
+politics, etc"
+61,"- Healthier with regards to diet, sleep, exposure to space radiation, reduced
+gravity, and other hazards of space
+Even before COVID-19, a virtual leisure travel industry was developing
+(including a wholly virtual “airline”)"
+62,"This industry has greatly expanded during
+COVID-19"
+63,"The industry provides virtual tourism as an alternative to physical
+tourism and along with the many benefits of DR already discussed, includes
+virtual trips to destinations without the increasing crowding often prevalent for
+physical travel and virtual trips, traveling adventures which are not physically
+possible"
+64,"This includes travel to historical places as they were in previous ages and
+to inaccessible places in space"
+65,"This virtual tourism industry has shown good
+growth/success, especially during COVID"
+66,Similar success has been observed with
+67,"regard to virtual business conferences, with many more able to attend, no venue
+costs/scheduling issues and excellent networking opportunities"
+68,"Immersive presence space tourism to the Moon/Mars is a developing
+business"
+69,"What could be put together for children is a Martian experience where,
+as they round a boulder a Martian of the parents’ choice in terms of configuration
+is there to conduct a tour of their planet"
+70,"The data to inform and enable building
+these ever increasingly improving virtual experiences is provided by many
+countries employing the many sensors, crawlers, etc"
+71,"conducting scientific
+exploration of planets, asteroids, moons and now, for the Earth’s Moon, industrial
+development"
+72,"This increasingly realistic alternative for space tourism is in the
+context of digital reality and increasingly immersive with five senses haptics and
+holographic projection under development"
+73,"Current Status of Space Tourism
+For physical space tourism there has been a near term emphasis upon
+suborbital flights going forward"
+74,"Orbital space tourism was begun by the Russians,
+who in eight trips took seven tourists to the International Space Station (ISS) from
+2001 to 2009 on Soyuz, after suitable training [ref"
+75,4]
+76,"The nominal cost of such
+trips is now in the range of $20M to $25M, via Blue Origin, Virgin Galactic, Boeing
+and Space X"
+77,"There were several startups to provide orbital space tourism during
+and after the Russian space tourist trips"
+78,"These were not successful, perhaps
+partially due to the economic conditions in that era"
+79,The U
+80,S
+81,"is planning for Space
+X Crew Dragon and Boeing Starliner to transport tourists (sometimes termed
+spacecraft participants) to the ISS, with an ISS accommodation cost of $35K/day
+each"
+82,"NASA is largely responsible for the reinvigorated emphasis upon private
+space travel"
+83,"The NASA commercial crew program with Boeing and Space X has as
+one of their objectives fostering commercial/private human space access"
+84,"With
+that program thus far a success, there are now serious plans to exploit that space
+access capability for space tourism [ref"
+85,5]
+86,"Bigelow Aerospace and Orion Span
+have nascent luxury orbital hotel designs"
+87,"Space X and Space Adventures plan
+Moon loop flights for $70 to $100 M"
+88,"A survey indicates that there is significant
+public interest in spending up to two weeks on the ISS with a spacewalk and some
+are desirous of a space hotel"
+89,"Space Adventures plans to fly two tourists to the ISS
+in 2023 on Soyuz"
+90,"Axion/Space X plan to fly three tourists to the ISS in 2021 for 10
+days"
+91,"Space Adventures and Space X plan a four to five day space trip, no ISS visit,"
+92,in the 2021 time frame
+93,"Axiom Space is planning a private module addition to ISS
+as a hotel"
+94,"There appears to be accelerating serious near term interest in orbital space
+tourism"
+95,"The current costs are, for most, daunting, but the activity, interest and
+now emerging capabilities to do these trips plus the large Space X LEO access cost
+reductions bode well for the future of space tourism, providing that there are no
+accidents and loss of life"
+96,"The projected mean number of missions for loss of crew
+on space shuttle was a factor of order two less than what was actually observed"
+97,"However, shuttle was designed in the 1970’s and built for half the projected cost
+due to budget cuts"
+98,We know more now and have more experience
+99,"Therefore,
+space tourism will probably experience at least the historical average on the order
+of 100 flights between failures"
+100,"The extent to which rocket safety can be
+improved and its’ public acceptance is TBD"
+101,"Serious space tourism is starting in
+Earth orbit over the next few years"
+102,"The two weeks or less in space, from the
+available information, should not produce many of the adverse health effects that
+characterize longer stays"
+103,"ISS is within the planetary magnetic fields that offer
+some protection from radiation (even though it’s above the protective
+atmosphere)"
+104,"In fact, the radiation exposure is half of that which would be
+received in deep space (e"
+105,g
+106,"during trips to the Moon, Mars, and other
+destinations)"
+107,"Typical ISS duty periods for highly trained ISS astronauts is six
+months"
+108,A year on ISS for Astronaut Mark Kelly was difficult
+109,"In deep space,
+exposed to full radiation, serious radiation protection and probably artificial
+gravity will be needed for such as Martian trips and beyond"
+110,"With respect to the present status of virtual/digital space tourism, NASA
+has a number of immersive/virtual tours of destinations such as the ISS and the
+planets"
+111,"Companies offer virtual tours of the Moon, Mars, the planets, and the
+solar system"
+112,"Google offers a tour of the ISS, space tours are on YouTube, and the
+VR companies are planning to offer live virtual tours of Earth from space"
+113,"Digital
+reality will increasingly provide some 80% of the space tourism experience at
+some million times less expense and some thousand times safer"
+114,"The Outlook for Space Tourism
+Due to costs of rocket production and operations including launch, those
+technologies that provide extreme reductions in the costs of space access are the
+fundamental enablers for space tourism [ref"
+115,6]
+116,"These costs are mainly due to
+rocket manufacture and operations including those associated with launch"
+117,The
+118,bulk of the costs are human labor
+119,"Space X has been extremely courageous and
+successful in reducing these launch costs via reusable rockets, cutting
+manufacture cost per launch, and in increasing automation, printing and
+robotization for manufacture and operations, thereby cutting human labor costs"
+120,"The cost of fuel is very minor (less than 1%) and constitutes the limit to which LEO
+access costs can be reduced"
+121,"Space X has produced a factor of six reduction in
+space access costs and is well along in providing a factor of 14 reduction"
+122,"Such
+reductions are the basic enabler for affordable space travel"
+123,"Increased use of
+autonomy and robotics for manufacture of the other equipment required for
+space tourism will also provide serious cost reductions with an overall resulting
+trip cost that will be increasingly manageable by the public"
+124,"Therefore, of the two
+major issues/metrics for physical space tourism stated previously, cost and safety,
+requisite cost reductions are on the horizon"
+125,"Unfortunately, the many aspects and
+issues surrounding safety are definitely works in progress"
+126,"For physical space
+tourism, short jaunts for the usual week(s) vacation period (e"
+127,g
+128,"to nearer
+destinations such as space stations, the Moon, near Earth objects) would be
+relatively safe with regard to the major health safety issues (E"
+129,g
+130,"micro g and
+radiation)"
+131,"However, launch safety and overall reliability probably still require
+significant improvements for public tourism utilization"
+132,"Longer trips to Mars and
+beyond entail much longer trip times and probably artificial gravity and serious
+radiation protection"
+133,"Some have posited potential psychological issues would
+occur for such long trips, which might be alleviated via holographic members of
+the tourist group with characteristics updated periodically"
+134,"Radiation Protection Options in Decreasing Order of Technology Readiness Level
+(TRL):
+For on Moon, planet, etc"
+135,", ~ under three to four meters of regolith
+For in space:
+1"
+136,Fast transits (e
+137,g
+138,"200 day round trips to Mars) via inexpensive chemical fuel
+enabled by far lower LEO access costs"
+139,2
+140,"Three to four meters reusable polyethylene overcoat, the weight/cost of which
+is enabled by inexpensive chemical fuel/far less expensive space access
+3"
+141,"Biological/medical countermeasures, a partial solution in space thus far, TBD
+going forward"
+142,4
+143,Fast transits (e
+144,g
+145,"200 day Mars round trip) via 6,000 sec"
+146,"Isp VASIMR high
+thrust MHD propulsion powered by an alpha of order one nuclear battery
+5"
+147,"Magnetic redirection of Galactic Cosmic Ray (GCR) particles via
+superconductive (S C) magnets located extended distances from the spacecraft
+6"
+148,Silicon crystal reflection of GCR particles plus shielding for Gamma secondaries
+149,"This approach may be applicable to space suits, and in that event, an exoskeleton
+may be required to handle the additional inertial loads"
+150,Prospective Space Activities Related To Space Tourism [ref
+151,"7]
+A"
+152,"Major LEO constellations of small satellites for high-speed internet and Earth
+observation, expanding the number of satellites from the order of 1,000 now to
+some 10,000 plus by 2025"
+153,"The associated Earth observation capabilities could
+enable “staring” anywhere 24/7/365"
+154,B
+155,"“Utilities” for beyond Geosynchronous Equatorial Orbit (GEO) to service both
+public and private customers, including communications, energy/fuel,
+transportation, maintenance/repair, life support, etc"
+156,C
+157,"Mining of the Moon, Mars, and asteroids for anything commercially viable or
+needed for colonization such as water, minerals, He3, rare earths, volatiles,
+“mass,” etc"
+158,"There are purportedly 850 near-Earth asteroids larger than a
+kilometer in diameter and many smaller ones at lunar distances from Earth or
+less"
+159,D
+160,"Entertainment including virtual reality (VR), videos, virtual presence (e"
+161,g
+162,"to
+enable spending an evening exploring Mars from your living room)
+E"
+163,"Asteroid defense including detection, tracking, and diversion of threats deemed
+capable of causing grievous harm
+F"
+164,"Space solar power for utilization on planets, moons, asteroids, in space,
+delivered via energy beaming using microwave or lasers
+G"
+165,"“Space Beach Combing,” the identification, collection, destruction,
+repurposing, and/or remanufacturing of space debris"
+166,"Of special interest is
+boosting ISS, in due course, into a parking orbit and scavenging its parts and by
+the piece
+H"
+167,"Space as a trash dump involves putting “trash” in parking orbits for “safe
+storage,” including possibly some components of nuclear waste depending upon
+if it could be certified “launch indestructible"
+168,"”
+I"
+169,"Space manufacturing in orbit, in-space, on other “bodies” or enroute"
+170,"This could
+include initially products that are much improved by production in micro g such as"
+171,"pharmaceuticals, fiber-optics, ball bearings, LEDs, solar panels, organs, hearts,
+and protein crystals"
+172,"There are also products that benefit from the near absolute
+vacuum of space, and the manufacture of fuels and on planet/body or in space
+human or robotic equipage"
+173,J
+174,"Space hospitals if microgravity or other in space conditions prove to be
+efficacious for specific human ills
+K"
+175,"Quantum technologies and quantum computing, utilizing the “quiet” conditions
+in space, vacuum, low temperature, etc"
+176,"to delay de-coherence and stabilize
+quantum states
+L"
+177,"Enhanced positional Earth utilities including telecom, internet, navigation,
+weather, imagery/Earth observation, resource monitoring, etc"
+178,", at lower cost and
+with larger apertures and greater resolution
+M"
+179,"Space weather forecasting for prediction of potential space condition impacts
+upon electronics both in space and on bodies including Earth
+N"
+180,"Communications and navigation, other satellite functionalities for the Moon,
+Mars, etc"
+181,"to replicate or improve as is useful the extant “positional Earth utilities”
+that constitute most of current commercial space
+O"
+182,"Refueling depots-The fuel to supply such depots could be sourced from Earth,
+the Moon, Mars, asteroids, etc"
+183,", anywhere that provides the fuel at lowest cost"
+184,"These depots could be located in Earth orbit/Earth environs, anywhere
+suitable/convenient/required in space or on “bodies"
+185,"” The fuel could be chemical
+of various flavors including CH , H /O , nuclear reactor, or nuclear battery “fuel"
+186,"”
+4 2 2
+Where propulsive mass and energy have been and can be separated, such as
+utilization of solar or beamed energy using the various flavors of nuclear
+energy including positrons, propulsive mass for propulsion utilizing external
+energy addition could be supplied"
+187,"The total refueling depot system architecture
+includes fuel sourcing, production, transportation, storage, and disbursement"
+188,P
+189,"Repair/servicing/maintenance functionalities-could be either itinerant or fixed,
+probably both, could be connected with fuel depots in some cases, and ultimately
+capable, possibly via printing, etc"
+190,", of repair/maintenance of nearly everything"
+191,"Reusability implies possible refurbishment, repair, maintenance, which are not as
+much of a major operational issues with a one-time use approach"
+192,Q
+193,"To service humans, a combination lifeboat, hotel, search and rescue
+functionality, which could also be sited at fuel depots, utilized for survivability,
+transit, and space tourism
+R"
+194,"Energy beamers-nuclear or solar powered, including by positrons, the cheap
+anti-matter"
+195,"These could be located on bodies, in orbit or in space, and provide an"
+196,"alternative energy/powering source, perhaps involving less cost than producing,
+handling fuel per se"
+197,"This would still require propulsive mass for utilization of
+beamed energy for propulsion instead of the many other uses of beamed energy
+including asteroid defense, mass drivers, on body/spacecraft power and energy,
+space manufacturing, and other industrial/commercial activities
+S"
+198,"Momentum tethers, space elevators, utilized as alternatives for rocket
+transportation, some have envisaged these as Earth/Moon transport or for even
+longer distances and they are rather major putative reusable infrastructures,
+capital projects
+T"
+199,"Propulsive Ground Assist-propulsive infrastructures for space access including
+the slingatron, blast wave accelerators and mass drivers-alternatives to rockets or
+tethers or as a partial launch assist
+U"
+200,"Space manufacture facilities and space “Business Parks” - located in space
+and/or on bodies, all types of bodies, depending upon the business to be
+conducted, resource availability, transportation costs and products produced
+V"
+201,"Utilities for space colonization including sourcing, transfer, storage,
+disbursement of food, water, energy, “supplies”, including from In-Situ Resource
+Utilization (ISRU) activities
+W"
+202,"Space tugs, in-space transfer, including cyclers, to move raw materials and
+products"
+203,"In the absence of time criticality, these could employ sails-solar sails,
+laser sails, magnetic sails, or particulate sails, aka “sloboats”
+X"
+204,"On-body transportation, nuclear powered or “fueled” otherwise, for “freight”
+and humans"
+205,"Due to the typically rough terrain of bodies, in atmosphere, near-
+body flying is probably the most efficacious transportation approach for other
+than very localized transportation"
+206,Y
+207,"On-body infrastructures-habs, mines, manufacturing plants, energy sources, life
+support, etc"
+208,"especially for colonization
+The Potential Closed Business Cases for Commercial Deep Space Include:
+1"
+209,"Commercial space utilities beyond GEO including communications,
+energy/fuel/transportation, maintenance/repair, life support, etc"
+210,"These in
+various forms and flavors will be needed for both government and commercial
+deep space activities, and especially for colonization"
+211,"Development has already
+begun for several of these including communication"
+212,2
+213,"Space mining-asteroid water is particularly interesting, especially if the quantity
+of Moon water proves to be significantly less and/or extraction costs prove"
+214,significantly more than anticipated
+215,"Given the extant competitive ocean (accessed
+via the increasingly low cost of renewable terrestrial energy)/other Earth
+resources, space mining may be more applicable to deep space utilization(s) than
+for use on Earth"
+216,3
+217,"Space beach combing/cleaning up space debris-given the current situation with
+respect to space debris and the plans to loft many more satellites, we will
+probably have to move on from avoidance of space debris/decommissioned
+satellites to removal"
+218,The legal issues and costs have held that in abeyance
+219,"The
+costs could be addressed via use of E-M tethers powered by NTAC or solar, fuel-
+less transportation to collect space debris for space manufacture
+repurposing/remanufacturing"
+220,4
+221,"Space manufacturing–with the space access cost reduction in the offing from
+reusable rockets, the major impediments to space manufacturing, which are cost
+and schedule, are greatly mitigated"
+222,"This capability would also enable in-space
+manufacture of equipage not suitable for launch (e"
+223,g
+224,"it’s too large or too fragile)
+even in piece parts"
+225,"Also, there are many products that are either enabled or
+much improved by in-space micro g and/or deep vacuum conditions"
+226,5
+227,"Space tourism–when human health/safety issues including safety, reliability,
+radiation, and microgravity are addressed, which are major mission design issues,
+the inexpensive space access enabled by reusable rockets should greatly
+accelerate space tourism"
+228,6
+229,"Quantum computing/technologies in space–this is a “new-bee,” with viability
+and realism yet to be determined"
+230,"However, for delaying decoherence,
+maintaining quantum conditions, the temperature, vacuum, and “quiet”
+conditions of space appear to be of interest (initial
+experiments are in progress)"
+231,7
+232,"Space solar power–especially for other bodies and in-space utilization initially,
+and eventually with the potential for Earth use, depending upon the business case
+vis-à-vis the ever reducing cost of terrestrial renewables/storage with their
+massive potential capacity
+8"
+233,"Earth positional utilities–this is the current, very successful, commercial space"
+234,"Inexpensive space access will make it even more so and several additional
+areas/functionalities will be enabled"
+235,9
+236,"Colonization of bodies such as Mars with all of its resources, would create a
+wholly new economy that could be essentially self-contained"
+237,"Mars could, with its
+resources, become the department and building supply store for the solar system
+as human colonization moves beyond Mars"
+238,"Concluding Remarks
+The bottom line on space tourism is that after some 60 years of highly
+trained astronauts going into space, space related technologies and their costs
+have altered to the point where increasing numbers of private citizens can
+become space tourists"
+239,"Initially, space travel would be suborbital for minimal
+times and Earth orbital for up to two weeks, with nearer term plans by Space X to
+do lunar flybys"
+240,"There has also developed a now rapidly improving digital
+reality/immersive virtual presence technology providing space tourism
+experiences at minimal cost and available essentially to everyone"
+241,"The safety
+aspects of physical space tourism need further development, but those that relate
+to the space environment are tolerable for a few weeks from the 60 years of
+manned space flight experience"
+242,"As space tourism expands beyond Earth orbit to
+the Moon, Mars, asteroids, and other planets, the safety issues will need to be
+seriously worked, and that is doable"
+243,"The apparent breakthrough in the
+resurgence of space tourism was the NASA commercial crew program, which was
+partially targeted on space tourism and has led to the transportation necessary to
+enable the nearer term, very few years out now, plans for a goodly expansion of
+physical space tourism"
+244,"This is only a portion of what will become major
+opportunities and expansion of commercial space beyond Earth utilities/up to
+GEO into deep space, initially the Moon, Mars, asteroids, and near Earth objects"
+245,"All of this is greatly enhanced by the ongoing major reductions in the costs of
+space access"
+246,"Given the wonderous ongoing progress in AI-enhanced autonomous
+robotics, for goodly cost and safety reasons, much to most of this commercial
+deep space will probably not include onsite humans"
+247,"There are projections that
+travelers that colonize Mars will, over time, due to the reduced g and radiation
+exposure, evolve into Martians"
+248,"References
+1"
+249,"Bushnell, Dennis M"
+250,",” The Coming Digital Reality”, Aerospace America, AIAA,
+June, 2020, ppgs"
+251,"22, 23
+2"
+252,"Bushnell, Dennis M"
+253,"and Moses, Robert W"
+254,",” Reliability, Safety and
+Performance for Two Aerospace Revolutions – UAS/ODM And Commercial
+Deep Space”, NASA/TM – 2019-220274, 2019"
+255,3
+256,"Moses, Robert W"
+257,"et al, “Maintaining Human Health for Humans on Mars”,
+AIAA 2018-5360, 2018
+4"
+258,"Wikipedia, “ Space Tourism”,
+https://en"
+259,wikipedia
+260,"org/wiki/Space_tourism#:~:text=Space%20tourism%20is
+%20human%20space,by%20the%20Russian%20Space%20Agency"
+261,5
+262,Space
+263,"Com, “Space Tourism”, https://www"
+264,space
+265,"com/topics/space-tourism
+6"
+266,"Bushnell, Dennis M"
+267,"and Moses, Robert W"
+268,", “Commercial Space in The Age of
+New Space, Reusable Rockets and The Ongoing Tech Revolutions”, NASA/TM
+– 2018-220118, 2018
+7"
+269,"Bushnell, Dennis M"
+270,"and Moses, Robert W"
+271,", “Prospectives in Deep Space
+Infrastructures, Development and Colonization”, NASA/TM – 2020 – 220442,
+2020"
